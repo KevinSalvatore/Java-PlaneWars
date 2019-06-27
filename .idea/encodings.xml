@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/game/Director.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/game/InputMsg.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/game/Mini.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/gamepad/Animation.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/gamepad/Animation.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/gamepad/Boom.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/gamepad/Conf.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/gamepad/GameScene.java" charset="GBK" />
+  </component>
+</project>
